@@ -1,5 +1,4 @@
 # Set the Working directory for the file
-setwd("/Users/pavitragajanana/development/2. Data Files/")
 quartz.options(width=6, height=6)
 # Loading the datasets
 # crudeoil <- read.csv('CrudeOilData.csv')
